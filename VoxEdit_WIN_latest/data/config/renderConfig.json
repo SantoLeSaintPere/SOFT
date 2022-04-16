@@ -1,0 +1,9 @@
+{
+	"ssao"	:
+	{
+		"kernelSize" : 128,
+		"noiseSize" : 8,
+		"radius" : 0.005,
+		"bias" : 0.001
+	}
+}

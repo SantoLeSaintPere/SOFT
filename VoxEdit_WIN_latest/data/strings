@@ -1,0 +1,608 @@
+status	section	key	en	kr	sc	jp
+used	splash	loading	Loading...	로딩 중	载入中...	ロード中...
+used	splash	tip_0	Binge-watching some movies\nto come up with new templates...	영화 마라톤하면서 새로운 템플릿 아이디어 얻기	疯狂观看一些电影\n来启发创造出新的模板...	新しいテンプレートを思い付くために映画を見る...
+used	splash	tip_1	Revisiting old biology books\nto learn about skeletons...	먼지 쌓인 생물학 책을 다시 열어 스켈레톤 구조 공부하기	重温旧生物学书籍\n以了解骨骼...	昔読んだ生物学の本を開き、骨格を学ぶ...
+used	splash	tip_2	Flattening up\nthe pen tool point…	펜 툴 포인트 플래트닝	展平\n笔工具点…	ペン先を平らにして...
+used	splash	tip_3	Taking sparks from the Sun\nto create our Lights…	태양의 불꽃으로 조명 만들기	以太阳的火花\n创造我们的灯光…	太陽から火をとってライトを作る...
+used	splash	tip_4	Counting the voxels\non every asset by hand…	애셋의 복셀 수 일일이 세기	手动计算\n每个资产上的体素…	ボクセルを手で数えて...
+used	splash	tip_5	Inverting the kinematics...	키네마틱 인버팅하기	反转运动学...	運動学にはむく...
+used	splash	tip_6	Stacking up the voxels...	복셀 쌓기	堆叠体素...	ボクセルの積み上げ...
+used	splash	tip_7	Spinning the joints...	관절 돌리기	旋转关节...	ジョイントを回転させて...
+used	splash	tip_8	Reticulating and\ndiscarding splines...	스플라인 고정 및 취소하기	网格化和\n弃置样条线...	網目状と破断の斜線...
+used	splash	tip_9	Worshiping the cube...	큐브 경배하기	崇拜立方体...	キューブを崇拝する...
+used	splash	tip_10	Picking the colors for the palette...	팔렛트에서 색 선택하기	为调色板挑选颜色...	パレットの色を選ぶ...
+used	splash	tip_11	Easing into the News section...	뉴스 섹션으로 들어가기	轻松进入新闻部分...	ニュース・セクションに入って...
+				x	x	x
+deprecated	welcome	title	Welcome!	환영합니다!	欢迎！	ようこそ！
+deprecated	welcome	create_new	Create a New	신규 생성	创造一个新的	新規作成
+deprecated	welcome	model	Model	모델	模型	モデル
+deprecated	welcome	rig	Rig	리그	装配	リグ
+deprecated	welcome	modeler_tutorial	Modeler Tutorial	모델러 튜토리얼	模型教学	モデラーのチュートリアル
+deprecated	welcome	rigger_tutorial	Rigger Tutorial	리거 튜토리얼	装配教学	リグのチュートリアル
+deprecated	welcome	templates	Templates	템플릿	模板	テンプレート
+deprecated	welcome	recent_files	Recent Files	최근 파일	近期档案	最近のファイル
+deprecated	welcome	open	Open...	열기...	打开…	開く…
+used	welcome	update_notice	An Update is available for VoxEdit	복스에딧 업데이트 버전이 나왔습니다	VoxEdit 有一个新版本	VoxEditをアップデート
+used	welcome	news	News	소식	新闻	ニュース
+used	welcome	latest_updates	Latest Updates	최근 업데이트	最近更新	最新アップデート
+used	welcome	modeler	Modeler	모델러	建模工具	モデラー
+used	welcome	animator	Animator	애니메이터	动画工具	アニメーター
+used	welcome	block	Block	블록	方体	ブロック
+used	welcome	tilemap	Tilemap	타일맵	瓦片地图	タイルマップ
+used	welcome	settings	Settings	설정	设置	設定
+used	welcome	create_asset	Create New Asset	새로운 애셋 만들기	创建新资产	新しいASSETを作成
+used	welcome	recent_files	Recent Files	최근 파일	近期档案	最近使ったファイル
+used	welcome	tutorials	Tutorials	튜토리얼	教程	チュートリアル
+used	welcome	tutorials_sub	Don't know where to start? Watch these tutorials!	어디서부터 시작해야될지 모른다면 튜토리얼을 시청하세요!	不知道从哪里开始？ 观看这些教程！	ますはチュートリアルをご覧ください
+used	welcome	templates	Templates	템플릿	模板	テンプレート
+used	welcome	latest_change	Modified: {0}	최근 업데이트 : {0}	最近更改：{0}	最近の変更: {0}
+used	welcome	openAnyFile	Open File...	파일 열기	打开文件...	ファイルを開く...
+used	welcome	importAnyFile	Import VOX...	VOX 불러오기	导入 VOX...	VOXのインポート...
+used	welcome	restore_recent	Restore from backup	백업 불러오기	从备份中恢复	バックアップの復元
+used	welcome	banner_main	Guidelines for Artists	아티스트 가이드라인	艺术家指南	アーティスト向けガイドライン
+deprecated	welcome	banner_sub	--EMPTY--	복셀 작품을 만들고 애니메이션하세요. 다양한 방법으로 활용하세요.	制作和动画化象素艺术。导出到任何地方。	ボクセルアートを作成してアニメーション化しよう。どこにでもエクスポート。
+used	welcome	market_main	Marketplace	마켓플레이스	市场	マーケットプレイス
+used	welcome	market_sub	Import, sell and collect the best ASSETS.	최고의 애셋들을 판매 및 수집하세요.	导入、出售和收集最好的资产。	ASSETをインポート、販売、収集しよう
+used	welcome	maker_main	Game Maker	게임 메이커	Game Maker 游戏制作软件	Game Maker
+used	welcome	maker_sub	Terraform your LAND. Build games.	LAND의 지형을 형성하고 게임을 만들어보세요	编辑您的土地，制作游戏。	LANDを繁栄させ、ゲームを作ろう。
+used	welcome	settings_camera	Camera Sensitivity	카메라 민감도	镜头灵敏度	カメラ感度
+				x	x	x
+used	topmenu	file	File	파일	文件	ファイル
+used	topmenu	new_modeler	New Modeler Project	새 모델러 프로젝트	新的模型项目	新規モデラープロジェクト
+used	topmenu	new_rigger	New Rigger Project	새 리거 프로젝트	新的装配项目	新規リガープロジェクト
+used	topmenu	new_block	New Block Project	새 블록 프로젝트	新的区块项目	新規ブロックプロジェクト
+used	topmenu	new_tilemap	New Tilemap Project	새 타일맵 프로젝트	新的瓦片地图项目	新規タイルマッププロジェクト
+used	topmenu	open	Open	열기	打开	開く
+used	topmenu	open_recent	Open Recent	최근 프로젝트 열기	最近打开	最近開いた
+used	topmenu	open_asset_folder	Open asset folder	애셋 폴더 열기	打开资产文件夹	ASSETフォルダを開く
+used	topmenu	save	Save	저장	保存	保存
+used	topmenu	save_as	Save as	다른 이름으로 저장	另存为	名前を付けて保存
+used	topmenu	export	Export	엑스포트하기	汇出	エクスポート
+used	topmenu	edit	Edit	편집	编辑	編集
+used	topmenu	undo	Undo	실행 취소	撤销	戻す
+used	topmenu	redo	Redo	재 실행	还原	再試行
+used	topmenu	select_all	Select All	모두 선택	全选	すべて選択
+used	topmenu	deselect_all	Deselect All	모두 선택 취소	取消全选	すべて消去
+used	topmenu	save_selected	Save selected voxels	선택된 복셀 저장하기	保存选中的象素	選択したボクセルを保存
+used	topmenu	export_vxr	Export VXR Skeleton	VXR 스켈레톤 엑스포트하기	导出VXR骨骼	VXR骨格のエクスポート
+used	topmenu	export_vxt	Export VXT Tilemap	VXT 타일맵 엑스포트하기	导出VXT瓦片地图	VXTタイルマップのエクスポート
+used	topmenu	export_obj	Export OBJ	OBJ 엑스포트하기	导出OBJ	OBJのエクスポート
+used	topmenu	export_dae	Export DAE	DAE 엑스포트하기	导出DAE	DAEのエクスポート
+used	topmenu	export_gltf	Export GLTF	GLTF 엑스포트하기	导出GLTF	GLTFのエクスポート
+used	topmenu	export_block	Export Block	블록 엑스포트하기	导出方块	ブロックのエクスポート
+used	topmenu	export_vox	Export VOX	VOX 내보내기	导出 VOX	VOXのエクスポート
+used	topmenu	export_marketplace	Export to Marketplace	마켓플레이스로 엑스포트하기	导出到市场	マーケットプレイスへのエクスポート
+used	topmenu	sync_external_editor	Sync with External Editor	외부 에디터와 싱크하기	与外部编辑器同步	外部エディタとの同期
+used	topmenu	sync_to_magicavoxel	Sync to MagicaVoxel	매지카복셀과 싱크하기	同步到 MagicaVoxel	MagicaVoxelへの同期
+used	topmenu	sync_from_magicavoxel	Sync from MagicaVoxel	매지카복셀로부터 불러오기	从 MagicaVoxel 同步	MagicaVoxelからの同期
+used	topmenu	help	Help	도움	帮助	ヘルプ
+used	topmenu	feedback	Feedback	피드백	反馈	フィードバック
+new	topmenu	reset_config	Reset to Default		重置为默认	初期設定に戻す
+				x	x	x
+used	menubar	home	Return to Welcome Screen	환영 화면으로 돌아가기	返回欢迎画面	「ようこそ」画面に戻る
+used	menubar	home_title	Return	웰컴 페이지로 	返回	戻る
+used	menubar	home_desc	to welcome screen	돌아가기	到欢迎页	「ようこそ」画面へ
+used	menubar	back	Return to Project	프로젝트로 돌아가기	返回到项目页	プロジェクトに戻る
+used	menubar	back_title	Return	프로젝트로	返回	戻る
+used	menubar	back_desc	to project	돌아가기	到项目页	プロジェクト
+deprecated	menubar	open	Open	열기	打开	開く
+used	menubar	save	Save	저장	保存	保存
+used	menubar	save_title	Save	저장하기	保存	保存
+used	menubar	save_desc	Commit changes to your save file	저장 파일 변경사항 최종 컨펌하기	应用更改到保存文件	保存ファイルに変更を適応する
+used	menubar	view_edges_hidden	Hide Edges	모서리 숨김	隐藏边位	エッジ（辺）を隠す
+used	menubar	view_edges_hidden_title	Hide Edges	모서리 숨김	隐藏边缘	エッジ（辺）を隠す
+used	menubar	view_edges_hidden_desc	Plain voxel appearance	플레인 복셀 외형	简单象素外观	ボクセルの平面
+used	menubar	view_edges_edges	Nice Edges	멋진 모서리	很好的边位	ナイスエッジ
+used	menubar	view_edges_edges_title	Nice Edges	멋진 모서리	细腻边缘	ナイスエッジ
+used	menubar	view_edges_edges_desc	Outline all 90 degree edges of the object	모든 90도 모서리 표시하기	显示物体全部90度边缘轮廓	オブジェクトのすべての90度のエッジを描画する
+used	menubar	view_edges_quads	Quad Edges	쿼드 모서리	四重边位	クアッドエッジ(４辺）
+used	menubar	view_edges_quads_title	Quad Edges	쿼드 모서리	四边缘	クアッドエッジ(４辺）
+used	menubar	view_edges_quads_desc	Outline quad divisions (not accurate to export)	쿼드 디비젼 아웃라인	显示四等分（不精确到导出）	クアッド分割を描画する(エクスポート不可)
+used	menubar	view_edges_voxels	Voxel Edges	복셀 모서리	体素边位	ボクセルエッジ（辺）
+used	menubar	view_edges_voxels_title	Voxel Edges	복셀 모서리	象素边缘	ボクセルエッジ（辺）
+used	menubar	view_edges_voxels_desc	Outline every voxel edge	모든 복셀 모서리 아웃라인하기	显示所有象素边缘	ボクセルのすべてのエッジ（辺）
+used	menubar	view_toggle_emissive	Toggle Emissivity	토글 방사율	切换排放率	放射率の切り替え
+used	menubar	view_toggle_emissive_title	Toggle Emissivity	토글 방사율	修改发射率	放射率の切り替え
+used	menubar	view_toggle_emissive_desc	Display brightness of glowing colors with bloom	빛나는 색깔 밝기 표시	显示带光晕的发光颜色亮度	ブルームで発光の明るさを表示
+used	menubar	lighting_settings	Lighting Settings	조명 세팅	灯光设置	照明の設定
+used	menubar	lighting_settings_title	Lighting Settings	조명 세팅	灯光设置	照明の設定
+used	menubar	lighting_settings_desc	Light source control	광원 설정	光源控制	光源の制御
+used	menubar	camera_settings	Camera Settings	카메라 설정	相机设置	カメラの設定
+used	menubar	camera_settings_title	Camera Settings	카메라 설정	相机设置	カメラ設定
+used	menubar	camera_settings_desc	Set camera sensitivity	카메라 민감도 설정	设置相机灵敏度	カメラ感度の設定
+used	menubar	camera_reset	Reset View	카메라 위치 리셋	重置镜头到预设位置	カメラ位置をリセット
+used	menubar	camera_reset_title	Reset View	카메라 위치 리셋	重置显示	カメラ位置をリセット
+used	menubar	camera_reset_desc	Move view to default start position	카메라 위치 디폴트	将显示移动到默认开始位置	デフォルトのスタート地点に視点を移動
+new	menubar	shortcut_guide	Shortcut Guide		捷径指南	ショートカットガイド
+new	menubar	shortcut_guide_title	Shortcut Guide		捷径指南	ショートカットガイド
+new	menubar	shortcut_guide_desc	List of active shortcuts		常用快捷键列表	アクティブなショートカット
+				x	x	x
+deprecated	menubar_modeler	new	New Model	새 모델	新的模型	新規のモデル
+deprecated	menubar_modeler	back	Return to Rig	리그로 돌아가기	返回装配	リグに戻る
+used	menubar_modeler	rotate	Rotate in {0} Axis	{0} 축으로 회전	以{0}轴旋转	{0}軸で回転
+used	menubar_modeler	rotateX_title	Rotate X	X 로테이트	X轴旋转	X軸で回転
+used	menubar_modeler	rotateX_desc	Turn entire object 90 degrees around the X axis	X축을 기준으로 90도 회전	围绕X轴将整个对象旋转90度	X軸方向にオブジェクト全体を90度回転
+used	menubar_modeler	rotateY_title	Rotate Y	Y 로테이트	Y轴旋转	Y軸で回転
+used	menubar_modeler	rotateY_desc	Turn entire object 90 degrees around the Y axis	Y축을 기준으로 90도 회전	围绕Y轴将整个对象旋转90度	Y軸方向にオブジェクト全体を90度回転
+used	menubar_modeler	rotateZ_title	Rotate Z	Z 로테이트	Z轴旋转	Z軸で回転
+used	menubar_modeler	rotateZ_desc	Turn entire object 90 degrees around the Z axis	Z축을 기준으로 90도 회전	围绕Z轴将整个对象旋转90度	Z軸方向にオブジェクト全体を90度回転
+used	menubar_modeler	upscale	Increase Volume Resolution	볼륨 해상도 증가	提升立体图像解像度	解像度を上げる
+used	menubar_modeler	upscale_title	Double Size 	더블 사이즈	双倍尺寸	サイズを2倍にする
+used	menubar_modeler	upscale_desc	Double size and detail of entire object in each dimension	오브젝트 전체 사이즈 키우기	每个维度双倍大小和细节	サイズを2倍にしてオブジェクト全体の各座標の詳細をみる
+used	menubar_modeler	downscale	Reduce Volume Resolution	볼륨 해상도 감소	降底立体图像解像度	解像度を下げる
+used	menubar_modeler	downscale_title	Halve Size	사이즈 낮추기	减半尺寸	サイズを1/2倍にする
+used	menubar_modeler	downscale_desc	Destructively reduce size and detail of entire object by half in each dimension	오브젝트 디테일 및 사이즈 낮추기	每个维度减半大小和细节	オブジェクト全体の各座標のサイズとディテールを破壊的に半分にする
+used	menubar_modeler	flip	Flip the model on {0} axis	{0} 축의 모델 	以{0}轴旋转模型	{0}軸でモデルを反転する
+used	menubar_modeler	flipX_title	Flip X	X 플립	X轴翻转	X軸で反転
+used	menubar_modeler	flipX_desc	Flip entire object along the X axis	X축 오브젝트 플립하기	沿X轴翻转整个对象	X軸でオブジェクト全体を反転する
+used	menubar_modeler	flipY_title	Flip Y	Y 플립	Y轴翻转	Y軸で反転
+used	menubar_modeler	flipY_desc	Flip entire object along the Y axis	Y축 오브젝트 플립하기	沿Y轴翻转整个对象	Y軸でオブジェクト全体を反転する
+used	menubar_modeler	flipZ_title	Flip Z	Z 플립	Z轴翻转	Z軸で反転
+used	menubar_modeler	flipZ_desc	Flip entire object along the Z axis	Z축 오브젝트 플립하기	沿Z轴翻转整个对象	Z軸でオブジェクト全体を反転する
+used	menubar_modeler	mirror	Toggle Mirror on {0} Axis	{0} 축의 거울 토글	切换{0}轴的镜像	{0}軸でミラーを切替える
+used	menubar_modeler	mirrorX_title	Mirror X	X 미러	X轴镜像	X軸のミラー
+used	menubar_modeler	mirrorX_desc	Toggle mirroring along the X axis	X를 기준으로 미러링	沿X轴镜像旋转	X軸にそってミラーを切り替える
+used	menubar_modeler	mirrorY_title	Mirror Y	Y 미러	Y轴镜像	Y軸のミラー
+used	menubar_modeler	mirrorY_desc	Toggle mirroring along the Y axis	Y를 기준으로 미러링	沿Y轴镜像旋转	Y軸にそってミラーを切り替える
+used	menubar_modeler	mirrorZ_title	Mirror Z	Z 미러	Z轴镜像	Z軸のミラー
+used	menubar_modeler	mirrorZ_desc	Toggle mirroring along the Z axis	Z를 기준으로 미러링	沿Z轴镜像旋转	Z軸にそってミラーを切り替える
+used	menubar_modeler	volume_width	Volume Width	볼륨 폭	立体图像阔度	ボリュームの幅
+used	menubar_modeler	volume_width_title	X Width	X 폭	X轴宽度	X幅
+used	menubar_modeler	volume_width_desc	Set number of voxels in X dimension	X 디멘션 복셀 수 설정	设置X轴上的象素数量	ボクセルのX座標の数字を設定する
+used	menubar_modeler	volume_height	Volume Height	볼륨 높이	立体图像高度	ボリュームの高さ
+used	menubar_modeler	volume_height_title	Y Height	Y 높이	Y轴高度	Y高さ
+used	menubar_modeler	volume_height_desc	Set number of voxels in Y dimension	Y 디멘션 복셀 수 설정	设置Y轴上的象素数量	ボクセルのY座標の数字を設定する
+used	menubar_modeler	volume_depth	Volume Depth	볼륨 깊이	立体图像深度	ボリュームの奥行き
+used	menubar_modeler	volume_depth_title	Z Depth	Z 깊이	Z轴深度	Z奥行き
+used	menubar_modeler	volume_depth_desc	Set number of voxels in Z dimension	Z 디멘션 복셀 수 설정	设置Z轴上的象素数量	ボクセルのZ座標の数字を設定する
+used	menubar_modeler	trim	Trim Volume	볼륨 자르기	修剪立体图像	ボリュームをカット
+used	menubar_modeler	trim_title	Trim Volume	볼륨 자르기	修改体积	ボリュームをカット
+used	menubar_modeler	trim_desc	Shrink bounding box to fit voxels	바운딩 박스 복셀에 맞춰 줄이기	收缩边界框以适应象素	境界のボックスをボクセルに合うよう縮める
+				x	x	x
+deprecated	menubar_rigger	new	New Rig	새로운 리그	新的装配	新規リグ
+used	menubar_rigger	selection	Select Node	노드 선택	选择节点	ノードを選択
+used	menubar_rigger	selection_title	Select Node	노드 선택	选择节点	ノードを選択
+used	menubar_rigger	selection_desc	Select nodes of your model	모델의 노드 선택	选择模型的节点	モデルのノードを選択
+used	menubar_rigger	move	Move Node	노드 이동	移动节点	ノードを動かす
+used	menubar_rigger	move_title	Move Node	노드 이동	移动节点	ノードを動かす
+used	menubar_rigger	move_desc	Change the position of the selected node	선택된 노드의 위치 변경	改变选中节点的位置	選択ノードの位置変更
+used	menubar_rigger	rotate	Rotate Node	노드 회전	旋转节点	ノードを回転
+used	menubar_rigger	rotate_title	Rotate Node	노드 회전	旋转节点	ノードを回転
+used	menubar_rigger	rotate_desc	Change the orientation of the selected node	선택된 노드의 방향 변경	更改选定节点的方向	選択ノードの向きの変更
+deprecated	menubar_rigger	scale	Scale Node	노드 스케일 변경	放大/缩少节点	ノードを拡大・縮小
+used	menubar_rigger	global_space	Global Space	글로벌 스페이스	全球空间	グローバルスペース
+used	menubar_rigger	global_space_title	Global Space	글로벌 스페이스	全球空间	グローバルスペース
+used	menubar_rigger	global_space_desc	Transform children nodes with their parents	부모 노드와 함께 자녀 노드 변형하기	使用母节点转换子节点	子ノードを親ノードに変換
+used	menubar_rigger	local_space	Local Space	로컬 스페이스	本地空间	ローカルスペース
+used	menubar_rigger	local_space_title	Local Space	로컬 스페이스	本地空间	ローカルスペース
+used	menubar_rigger	local_space_desc	Transform parent nodes without affecting children	자녀노드 유지하며 부모노드 변형하기	变换母节点而不影响子节点	子ノード無変更のまま親ノードを変形
+used	menubar_rigger	flip	Flip the rig on {0} axis	{0} 축 중심으로 리그 뒤집기	在 {0} 轴上翻转装配	リグを{0}軸に反転
+used	menubar_rigger	flipX_title	Flip X	X 뒤집기	翻转 X	X反転
+used	menubar_rigger	flipX_desc	Flips rig & models along the X axis	X 축을 중심으로 리그 및 모델 뒤집기	沿 X 轴翻转装配和模型	X軸に沿ったリグとモデルの反転
+used	menubar_rigger	flipY_title	Flip Y	Y 뒤집기	翻转 Y	Y反転
+used	menubar_rigger	flipY_desc	Flip rig & models along the Y axis	Y 축을 중심으로 리그 및 모델 뒤집기	沿 Y 轴翻转装配和模型	フリップリグとY軸に沿ったモデル
+used	menubar_rigger	flipZ_title	Flip Z	Z 뒤집기	翻转 Z	Z反転
+used	menubar_rigger	flipZ_desc	Flip rig & models along the Z axis	Z 축을 중심으로 리그 및 모델 뒤집기	沿 Z 轴翻转装配和模型	フリップリグとZ軸に沿ったモデル
+used	menubar_rigger	keepPosition	Conserve Position	포지션 지키기	保存位置	ポジションの固定
+used	menubar_rigger	keepPosition_title	Conserve Position	포지션 지키기	保存位置	ポジションの固定
+used	menubar_rigger	keepPosition_desc	Keep position constant while rotating	회전시 포지션 유지하기	旋转时保持位置不变	位置固定のまま回転
+used	menubar_rigger	align_to_axis	Align To Axis	중심축에 맞추기	对齐轴	軸に合わせる
+used	menubar_rigger	align_to_axis_title	Align To Axis	중심축에 맞추기	对齐轴	軸に合わせる
+used	menubar_rigger	align_to_axis_desc	Reset scene transforms	장면 변경 리셋	重置场景变换	シーン変換のリセット
+used	menubar_rigger	ik	Inverse Kinematics	인버스 키네마틱	逆运动学	逆運動
+used	menubar_rigger	ik_title	Inverse Kinematics	인버스 키네마틱	逆运动学	逆運動
+used	menubar_rigger	ik_desc	Enable Inverse Kinematics	인버스 키네마틱 활성화	启用逆运动学	逆運動の有効化
+used	menubar_rigger	skeleton	Show/Hide Rig	리그 표시/감추기	显示/隐藏装配	リグを表示/非表示
+used	menubar_rigger	skeleton_title	Show/Hide Rig	리그 표시/감추기	显示/隐藏装配	リグを表示/非表示
+used	menubar_rigger	skeleton_desc	Toggles the visibility of the rig skeleton	리그 스켈레톤 가시성 토글	切换装备骨架的可见性	リグスケルトンの表示/非表示の切替
+used	menubar_rigger	boxes	Show/Hide Node Bounding Boxes	노드 바운딩 박스 표시/숨기기	显示/隐藏包围节点的盒子	ノード境界ボックスを表示/非表示
+used	menubar_rigger	boxes_title	Show/Hide Node Bounding Boxes	노드 바운딩 박스 표시/숨기기	显示/隐藏包围节点的盒子	ノード境界ボックスを表示/非表示
+used	menubar_rigger	boxes_desc	Toggles the visibility of the nodes bounding boxes	바운딩 박스 노드 가시성 토글	切换节点边界框的可见性	ノードのバウンディングボックスの表示／非表示の切替
+used	menubar_rigger	edit_attached_model	Edit Attached Model	첨부된 모델 편집	修改附上的模型	取り付けたモデルを編集
+				x	x	x
+used	toolbar	select	Select Mode	모드 선택	选择模式	モードを選択
+used	toolbar	select_title	Select Mode	모드 선택	选择模式	モードを選択
+used	toolbar	select_desc	Highlight and move voxels	복셀 표시하기 및 이동하기	突出并移动象素	ボクセルをハイライトして動かす
+used	toolbar	create	Create Mode	생성 모드	创作模式	モードを制作
+used	toolbar	create_title	Create Mode	생성모드	创造模式	モードを制作
+used	toolbar	create_desc	Add new voxels	새 복셀 추가하기	添加新象素	新規ボクセルを追加
+used	toolbar	paint	Paint Mode	페인트 모드	绘画模式	ペイントモード
+used	toolbar	paint_title	Paint Mode	페인트 모드	绘画模式	ペイントモード
+used	toolbar	paint_desc	Color existing voxels with the selected swatch	선택된 색으로 복셀 색칠하기	使用选中的样本为现有象素上色	選択した色でボクセルを塗る
+used	toolbar	erase	Erase Mode	지우기 모드	消除模式	消去モード
+used	toolbar	erase_title	Erase Mode	지우기 모드	擦除模式	消去モード
+used	toolbar	erase_desc	Remove Voxels	복셀 지우기	移除象素	ボクセルを削除
+used	toolbar	pen	Pen Tool: Affect single voxels	펜 도구: 단일 복셀 효과	钢笔工具：影响单一体素	ペンツール：ひとつのボクセルに反映
+used	toolbar	pen_title	Pen Tool	펜 도구	钢笔工具	ペンツール
+used	toolbar	pen_desc	Modify voxels freeform	자유형태 편집	自由修改象素	ボクセルを自由に変形
+used	toolbar	line	Line Tool: Creates a straight line from click to release	라인툴 : 직선 만들기	直线	ラインツール：クリックから離すまで直線を引く
+used	toolbar	line_title	Line Tool	라인툴	直线工具	ラインツール
+used	toolbar	line_desc	Modify voxels in a straight line	직선 형태 복셀 수정하기	修改直线上的象素	直線上のボクセルを修正
+used	toolbar	screenRect	Screen Rect Tool: Modify Voxels in a Screen Rectangle	사각 스크린 툴 : 선택된 여러개의 복셀들 편집하기	屏幕矩形工具：修改屏幕矩形中的体素	長方形画面ツール。画面の四角形でボクセルを修正する
+used	toolbar	screenRect_title	Screen Rect Tool	마우스 드래그로 복수 개체 선택하기	屏幕矩形工具	長方形画面ツール
+used	toolbar	screenRect_desc	Modify voxels in a screen rectangle	선택된 복셀 수정하기	修改屏幕矩形中的体素	長方形画面のボクセルを変更する
+used	toolbar	box	Box Tool: Affect block of voxels	박스 도구: 복셀의 블록 효과	盒子工具：影响整个区块的体素	ボックスツール：ボクセルのブロックに反映
+used	toolbar	box_title	Box Tool	박스 도구	矩形工具	ボックスツール
+used	toolbar	box_desc	Modify voxels in a rectangular prism	직사각형 프리즘 형태 수정하기	修改在矩形棱柱上的象素	直角プリズムのボクセルを修正する
+used	toolbar	face	Face Tool: Affect contiguous faces of voxels	페이스 도구: 복셀의 연속적인 면 효과	面部工具：影响体素接触的平面	フェイスツール：ボクセル接触面に影響
+used	toolbar	face_title	Face Tool	페이스 도구	面工具	フェイスツール
+used	toolbar	face_desc	Modify voxels on a contiguous face	복셀의 연속적인 면 수정하기	修改临近面上的象素	隣接するボクセルの面を変更する
+used	toolbar	flood	Bucket Tool: Affect contiguous voxels	채우기 도구: 연속적인 복셀 효과	洪水工具：影响接触的体素	フラッドツール：連続ボクセルに影響
+used	toolbar	flood_title	Bucket Tool	채우기 도구	填色工具	フラッドツール
+used	toolbar	flood_desc	Modify voxels in a contiguous volume	복셀의 연속적인 부피 수정하기	修改临近内容的象素	連続したボリュームでボクセルを修正する
+used	toolbar	picker	Picker Tool: Select the surface color of a model	피커 도구 : 색깔 선택하기	提取器	ピッカーツール：モデルの表面の色を選択
+used	toolbar	picker_title	Picker Tool	피커 도구	填色工具	ピッカーツール
+used	toolbar	picker_desc	Select a color swatch from a voxel	복셀의 색 따오기	选择象素上的颜色样本	ボクセルから色を抽出する
+used	toolbar	pivot	Pivot Tool: Select the right position for animation	피벗 도구: 애니메이션을 위해 올바른 위치 선택	轴心工具：选择动画的正确位置	ピボットツール：アニメーションの正しい位置を選択
+used	toolbar	pivot_title	Pivot Tool	피벗 도구	支点工具	ピボットツール
+used	toolbar	pivot_desc	Set the object's origin	오브젝트 오리진 설정하기	设置物体起点	オブジェクトの原点を設定
+used	toolbar	pivot_floor	Set to Floor	바닥으로 설정하기	设置为地面	フロアにセット
+used	toolbar	pivot_center	Set to Center	중앙으로 설정하기	设置为中心	センターにセット
+used	toolbar	screen	Frame Tool	프레임 도구	框架工具	フレームツール
+used	toolbar	screen_title	Frame Tool	프레임 도구	框架工具	フレームツール
+used	toolbar	screen_desc	Select a rectangular area to display media in the Game Maker	게임 메이커에서 미디어가 표시될 사각형 지역 선택	选择一个矩形区域在游戏制作工具中显示媒体	ゲームメーカーでメディアを表示するために長方形のエリアを選んでください
+used	toolbar	section_modes	Mode	모드	模式	モデル
+used	toolbar	section_tools	Tools	도구	工具	ツール
+used	toolbar	section_pivot	Pivot	피벗	轴心	ピボットツール
+used	toolbar	section_picker	Picker	피커	采集器	ピッカー
+used	toolbar	section_screen	Screen	스크린	屏幕	スクリーン
+				x	x	x
+used	viewport	floor	Show/Hide Floor	바닥 표시/숨기기	显示/隐藏地面	床を表示/非表示
+used	viewport	walls	Show/Hide Walls	벽 표시/숨기기	显示/隐藏墙壁	壁を表示/非表示
+used	viewport	axis	Show/Hide Axes	축 표시/숨기기	显示/隐藏轴线	軸を表示/非表示
+used	viewport	ghost_rig	Show/Hide Rig Ghost	리그 고스트 표시/숨기기	显示/隐藏装配重影	リグゴーストの表示/非表示
+new	viewport	ghost_faces	Show/Hide Tiled Face		显示/隐藏平铺面	タイルフェイスの表示/非表示
+used	viewport	screenshot	Take a Screenshot	스크린샷	截屏	スクリーンショットを撮る
+new	viewport	ik_bones	Show/Hide IK Bones		显示/隐藏 IK 骨骼	IKボーンズの表示/非表示
+new	viewport	flat	Toggle Render Quality		切换渲染质量	レンダリング品質の設定
+new	viewport	depth	Toggle Depth Cues		切换深度提示	奥行きの付与/調整
+used	viewport	scroll_left	Scroll Left	왼쪽 스크롤	向左滚动	左にスクロールする
+used	viewport	scroll_right	Scroll Right	오른쪽 스크롤	向右滚动	右にスクロールする
+used	viewport	scroll_up	Scroll Up	위로 스크롤	向上滚动	上にスクロールする
+used	viewport	scroll_down	Scroll Down	아래로 스크롤	向下滚动	下にスクロールする
+used	viewport	scroll_front	Scroll Front	앞으로 스크롤	向前滚动	前にスクロールする
+used	viewport	scroll_back	Scroll Back	뒤로 스크롤	向后滚动	後ろにスクロールする
+new	viewport	camera_tooltip	Turn Around: Mouse Right Click - Pan: Mouse Middle Click/Alt - Zoom In/Out: Mouse Wheel	회전하기 : 마우스 우측 클릭 - 카메라 팬 : 마우스 중간 클릭 - 줌 인/아웃 : 마우스 휠	翻转：点击鼠标右键 - 摇摄：点击鼠标中键- 缩放：鼠标滚轮	向きの変更：マウス 右クリック - 上下：マウス 中クリック/スペースバー - ズームイン/アウト：マウス動作
+new	viewport	screenshot_toast	Screenshot saved! Click to open folder.			スクリーンショットを保存しました。 クリックしてファイルを開く。
+used	viewport	measure_tooltip_start	Start	시작	开始	スタート
+used	viewport	measure_tooltip_delta	Delta	델타	三角洲	デルタ
+				x	x	x
+used	material_picker	title	Material	물질	物料	マテリアル
+used	material_picker	emissive	Toggle Emissivity for Current Material	현재 물질 방사율에 대하여 토글	切换现时物料的排放率	現在のマテリアルの放射率を切り替える
+used	material_picker	save	Update Current Material in Palette	팔레트 내의 현재 물질 업데이트	升级现时调色板上的物料	パレットで現在のマテリアルをアップグレード
+deprecated	material_picker	trash	Erase Material from Palette	팔레트에서 물질 지우기	消除调色板上的物料	パレットからマテリアルを消す
+				x	x	x
+used	layers	title	Layers	레이어	图层	レイヤー
+new	layers	new	New Layer		新建图层	新しいレイヤー
+used	layers	eye	Toggle Visibility	가시성 토글	切换可见性	トグル表示
+used	layers	select	Edit Layer	레이어 편집	编辑图层	レイヤーの編集
+used	layers	edit_name	Edit Name	명칭 편집	编辑名称	編集名
+used	layers	merge_back	Merge Back	뒤로 합치기	合并返回	マージに戻す
+used	layers	back	Move To Back	뒤로 보내기	移到后层	後ろに移動
+used	layers	front	Move To Front	앞으로 보내기	移到前层	前へ移動
+used	layers	duplicate	Clone Layer	레이어 복제하기	克隆层	レイヤの複製
+used	layers	delete	Delete Layer	레이어 제거하기	删除图层	レイヤーの削除
+used	layers	query_rename	New Name for Layer?	레이어 명칭을 변경하시겠습니까?	图层的新名称?	レイヤー名を変更する？
+used	layers	query_rename_accept	Rename Layer	레이어  명칭 변경하기	重命名图层	レイヤー名の変更
+				x	x	x
+used	palette	title	Palette	팔레트	调色板	パレット
+used	palette	save	Save Palette	팔레트 저장	保存调色板	パレットを保存
+used	palette	load	Load Palette	팔레트 불러오기	载入调色板	パレットを読み込む
+used	palette	new	New Palette	새 팔레트	新的调色板	新規パレット
+used	palette	size_change	Choose the size of the colors	색의 크기 선택하기	选择颜色尺寸	色のサイズを選択
+used	palette	size_small	Small View	작은 크기	小视图	スモールビュー
+used	palette	size_medium	Medium View	중간 크기	中视图	メディアムビュー
+used	palette	size_large	Large View	큰 크기	大视图	ラージビュー
+used	palette	replace_color	Replace	교체	取代	置換
+used	palette	delete_color	Delete	삭제	删除	削除
+used	palette	add_color	Add New Material to Palette	팔레트에 새 물질 추가	加入新的物料到调色板	パレットに新しいマテリアルを追加
+				x	x	x
+used	skeleton	title	Skeleton	스켈레톤	骨骼	骨格
+used	skeleton	node	Drag to reorder/reparent	재정립 위해 드래그	拖拽重新排序/分配	ドラッグして順序を入れ替える/リペアレントする
+used	skeleton	edit_model	Edit Model	모델 편집	编辑模型	モデルを編集
+used	skeleton	fold	Fold Childs	자식 숨기기	折叠子项	子をたたむ
+used	skeleton	unfold	Unfold Childs	자식 표시	展开子项	子の展開
+used	skeleton	new_child	Create Child Node	자식 노드 생성	新增子节点	子ノードを作成
+used	skeleton	export_hierarchy	Export Hierarchy	위계 내보내기	导出为索具	リグとしてエクスポート
+used	skeleton	import_hierarchy	Import Hierarchy (VXR, VOX)	위계 불러오기 (VXR, VOX)	导入层次结构（VXR、VOX）	インポート階層（VXR、VOX）
+used	skeleton	rename	Rename Node	노드 이름변경	重新命名节点	ノードの名前を変更
+used	skeleton	duplicate	Duplicate Node	노드 복제	复制节点	ノードを複製
+used	skeleton	delete	Delete Node	노드 삭제	删除节点	ノードを削除
+used	skeleton	dettach_model	Unlink VXM from Node	노드로 부터 VXM 연결 해제	解除节点的VXM连结	ノードからVXMのリンクを解除
+used	skeleton	mirror_on_x	Mirror on X	X에서 미러	X 轴镜像	X座標に反映する
+used	skeleton	mirror_on_y	Mirror on Y	Y에서 미러	Y 轴镜像	Y座標に反映する
+used	skeleton	mirror_on_z	Mirror on Z	Z에서 미러	Z 轴镜像	Z座標に反映する
+used	skeleton	query_new_node	Name of new Node?	새 노드 명칭	新节点名称？	新しいノードの名前は？
+used	skeleton	query_new_node_accept	Create Node	노드 만들기	创建节点	ノードを作成する
+used	skeleton	query_rename_node	New Name of Node?	새 노드 명칭?	节点新名称？	ノードの新しい名前は？
+used	skeleton	query_rename_node_accept	Rename Node	노드 명칭 다시 정하기	重命名节点	ノードの名前を変更する
+used	skeleton	query_duplicate_node	Name of duplicate Node?	노드 복사본 명칭?	节点副本名称？	重複ノードの名前は？
+used	skeleton	query_duplicate_node_accept	Create Node	노드 만들기	创建节点	ノードを作成する
+				x	x	x
+used	timeline	title	Timeline	타임라인	时间轴	タイムライン
+used	timeline	zoom_area	ZOOM AREA	지역 줌	缩放区域	ズームエリア
+used	timeline	loop_area	LOOP AREA	지역 루프	环状区域	ループエリア
+new	timeline	zoom_fit	Zoom to Fit			Zoom調整
+new	timeline	loop_toggle	Toggle Loop Mode			ループモードの切り替え
+used	timeline	seeker	Click to Move to Frame, Drag to Seek	프레임 이동 클릭, 찾기 위해 드래그	点击移动至帧，可拖拽进行查找	クリックしてフレームに移動、ドラッグして探す
+used	timeline	stretcher	Stretch Selected Keyframes	키 프레임 스트레치하기	展开选中关键帧	選択したキーフレームを伸ばす
+used	timeline	keyframe_tooltip	Click to Select, Shift+Click to Toggle, Drag to Move, Delete while Selected to Erase	클릭하여 선택, Shift+클릭하여 토클, 드래그하여 이동, 선택 삭제하기	点击选择，按住Shift并点击进行切换，拖拽进行移动，选择橡皮擦进行删除	クリックで選択、Shift+Clickで切替、ドラッグで移動、選択状態でDeleteして削除
+used	timeline	interpolation_tooltip	Click to Select, Shift+Click to Toggle, Drag to Move, Right Click to change Interpolation Curve	클릭하여 선택, Shift+클릭하여 토클, 드래그하여 이동, 마우스 우측 클릭으로 인터폴레이션 커브 변경	点击选择，按住Shift并点击进行切换，拖拽进行移动，右击修改插值曲线	クリックで選択、Shift+Clickで切替、ドラッグで移動、右クリックで補間曲線を変更
+used	timeline	to_first	To First Frame	첫 프레임으로 이동	到第一帧	最初のフレームへ
+used	timeline	to_prev	To Previous Key Frame	이전 프레임	到上一个关键帧	前のフレームへ
+used	timeline	play_pause	Play/Pause	재생/중지	播放/暂停	再生/停止
+used	timeline	to_next	To Next Key Frame	다다음 프레임	到下一个关键帧	次のフレームへ
+used	timeline	to_last	To Last Frame	마지막 프레임으로 이동	到最后一帧	最後のフレームへ
+used	timeline	node_select	Select Node	노드 선택	选择节点	ノードを選択
+used	timeline	color_toggle	Switch Node Highlight Color	노드 하이라이트 컬러 바꾸기	选择节点高亮颜色	ノードのハイライトの色変更
+used	timeline	eye	Show/Hide Node	노드 표시/숨기기	显示/隐藏节点	ノードを表示/非表示
+used	timeline	lock	Lock/Unlock Node Timeline	노드 타임라인 잠금/잠금 해제	锁定/解锁节点时间表	ノードタイムラインをロック/ロック解除
+used	timeline	create_keyframe	Create New Keyframe	새로운 키프레임 생성	创造新的关键影格	新しいキーフレームを作成
+new	timeline	select_keyframes	Select Keyframes		选择关键帧	キーフレームの選択
+new	timeline	delete_keyframes	Delete Keyframes		删除关键帧	キーフレームの削除
+used	timeline	eye_all	Show/Hide All Nodes	모든 노드 보이기/숨기기	显示/隐藏全部节点	全てのノードの表示/非表示
+used	timeline	lock_all	Lock/Unlock All Node Timelines	모든 노드 타임라인 잠구기/풀기	锁定/解锁全部节点时间轴	全てのノードのタイムラインの固定/解除
+used	timeline	create_keyframe_all	Create New Keyframe for All Nodes	모든 노드의 새 키프레임 만들기	为全部节点创建新的关键帧	全てのノードに対する新規キーフレーム作成
+used	timeline	interpolation_button	Change Selected Interpolation Curves	선택된 인터폴레이션 커브 변경하기	修改选定插值曲线	選択した補間曲線を変更
+used	timeline	long_way_rotation	Long Way Rotation	롱 웨이 로테이션	远距离旋转	長い回転
+used	timeline	animations	Animations	애니메이션	动画	アニメーション
+deprecated	timeline	create_new_animation	Create Animation	애니메이션 생성하기	新增动画	アニメーションを作成
+used	timeline	set_as_default	Set as Default	기본값으로 설정하기	设为默认	デフォルトとして設定
+used	timeline	rename_animation	Rename Animation	애니메이션 이름 변경하기	重新命名动画名称	アニメーションの名前を変更
+used	timeline	duplicate_animation	Duplicate Animation	애니메이션 복제하기	复制动画	アニメーションを複製
+used	timeline	export_animation	Export Animation	애니메이션 내보내기	导出动画	アニメーションをエクスポート
+used	timeline	delete_animation	Delete Animation	애니메이션 삭제하기	删除动画	アニメーションを削除する
+new	timeline	delete_all_animations	Delete All Animations		删除所有动画	全アニメーションを削除
+used	timeline	default_animation_name	Idle	Idle	Idle	Idle
+used	timeline	animation_list	Open Animation List	애니메이션 리스트 열기	打开动画列表	アニメーションリストを開く
+used	timeline	animation_select	Select {0} animation	{0} 애니메이션 열기	选择{}动漫	{0}のアニメーションを選択
+used	timeline	animation_playing	Playing: {0}	재생 : {0}	正在播放： {0}	再生中: {0}
+deprecated	timeline	new_animation	New Animation	새 애니메이션	新动画	新規のアニメーション
+used	timeline	query_new_animation	Name of new Animation?	새 애니메이션 이름?	新动画名？	新規のアニメーションに名前を付けてください
+used	timeline	query_new_animation_accept	Create Animation	애니메이션 만들기	创建动画	アニメーションを作成する
+used	timeline	query_rename_animation	New Name of Animation?	새 애니메이션 명칭?	动画新名称？	アニメーションの新しい名前は？
+used	timeline	query_rename_animation_accept	Rename Animation	애니메이션 명칭 다시 정하기	重命名动画	アニメーションの名前を変更する
+used	timeline	query_duplicate_animation	Name of duplicate Animation?	애니메이션 복사본 명칭?	动画副本名称？	重複アニメーションの名前は？
+used	timeline	query_duplicate_animation_accept	Create Animation	애니메이션 만들기	创建动画	アニメーションを作成する
+used	timeline	error_empty_animation	Animation cannot have empty name!	애니메이션에 명칭을 기입해야합니다!	动画名不可为空！	アニメーションには名前を付けてください!
+used	timeline	error_duplicate_animation	Animations cannot have the same name!	애니메이션의 명칭이 다른 명칭과 같을 수 없습니다!	动画名不可重复！	他のアニメーションと同じ名前は付けられません!
+				x	x	x
+used	library	title	Library	라이브러리	库	ライブラリ
+used	library	edit	Edit Model	모델 편집	修改模型	モデルを編集
+used	library	rename	Rename Model	모델명 변경	重命名模型	モデルの名前を変更
+used	library	duplicate	Duplicate Model	모델 복제	复制模型	モデルを複製
+used	library	delete	Delete Model	모델 삭제	删除模型	モデルを削除
+used	library	new	New VXM	새로운 VXM	新的VXM	新しいVXM
+used	library	import_vxm	Import VXM	VXM 임포트	汇入VXM	VXMをインポート
+used	library	import_vox	Import VOX	VOX 임포트	汇入VOX	VOXをインポート
+used	library	upgrade_vxms	Upgrade VXMs	VXM 업그레이드	升级VXMs	VXMをアップグレード
+used	library	voxelize_obj	Voxelize OBJ	OBJ 복셀화	体素化OBJ	OBJをボクセルに変える
+used	library	replace	Replace Model	모델 대체하기	更换模型	モデルの置換
+used	library	export_vox	Export as VOX	VOX로 내보내기	导出为 VOX	VOXとしてエクスポート
+used	library	delete_unattached	Delete Unattached	연관없는 개체 지우기	删除非附件	未添付の削除
+used	library	restore_assets	Restore Assets	자산 복구	复原资产	アセットを復元
+used	library	thumbnail	Drag to Skeleton node to attach	스켈레톤 노드 드래그하여 붙이기	拖拽骨骼节点进行吸附	骨格ノードをドラッグしてアタッチ
+deprecated	library	list	List View	리스트 뷰	列表显示	リストビュー
+deprecated	library	grid	Grid View	그리드 뷰	网格显示	グリッドビュー
+				x	x	x
+used	inspector	title	Inspector	인스펙터	查看器	インスペクター
+used	inspector	transform	Transform	트랜스폼	变形	トランスフォーム
+used	inspector	position	Position	포지션	位置	位置
+used	inspector	rotation	Rotation	로테이션	旋转	ローテーション
+used	inspector	scale	Scale	스케일	比例	スケール
+used	inspector	reset	Reset	리셋	重置	リセット
+used	inspector	flip_mesh	Flip Mesh	플립 메쉬	翻转网格	フリップメッシュ
+used	inspector	inverse_kinematics	Inverse Kinematics	인버스 키네마틱	逆运动学	逆再生
+used	inspector	ik_anchor	Anchor	앵커	锚	アンカー
+used	inspector	ik_constraints	Constraints	제한	约束	制約
+new	inspector	ik_new_effector	Create Effector		创建效应器	エフェクターの作成
+new	inspector	ik_roll	Roll		滚动	ロール
+new	inspector	ik_roll_start	Start		开始	スタート
+new	inspector	ik_roll_range	Range		范围	幅
+deprecated	inspector	ik	IK	IK	IK	IK
+deprecated	inspector	constraints	Constraints	제한	约束	制約
+used	inspector	left	Left	왼쪽	左	左
+used	inspector	right	Right	오른쪽	右	右
+used	inspector	up	Up	위	上	上
+used	inspector	down	Down	아래	下	下
+used	inspector	constraint_angles	Constraint Angles	앵글 제한	约束角	アングルの制約
+used	inspector	constraint_angle_min	Min	최소	最小值	最小
+used	inspector	constraint_angle_max	Max	최대	最大值	最大
+used	inspector	error_float_value	Expected float value	예상되는 float 밸류	必为浮点值	float想定値
+used	inspector	error_scale_value	Expected positive, non zero scale	예상되는 포지티브, 논 제로 스케일	必为非零正数	０以上のスケール値
+used	inspector	collides	Collides	충돌	碰撞	衝突
+				x	x	x
+used	block_sides	title	Block Sides	블록 사이드	积木面	ブロックサイド
+used	block_sides	flipH	Flip Horizontally	수평뒤집기	水平翻转	水平反転
+used	block_sides	flipV	Flip Vertically	수직뒤집기	垂直翻转	上下反転
+used	block_sides	rotateCW	Rotate Clockwise	시계방향 돌리기	顺时针旋转	時計回りに回転
+used	block_sides	rotateCCW	Rotate Counter Clockwise	반시계방향 동리기	逆时针旋转	反時計回りに回転
+used	block_sides	import_size_mismatch	Imported textures can only be 32 x 32 px in size.	32 x 32 px 크기의 텍스쳐만 불러오기 가능	导入的纹理大小只能为32 x 32像素。	インポートされたテクスチャは、32 x 32 pxサイズのみしか使用できません。
+used	block_sides	import_palette_mismatch	Result block would have more than 255 colors.	블록이 255색을 초과하게됩니다.	受影响块将具有255种以上的颜色。	結果、ブロックは255色以上になります。
+				x	x	x
+used	tilemap	rotate_left	Rotate Left	왼쪽으로 돌리기	向左旋转	左回転
+used	tilemap	rotate_right	Rotate Right	오른쪽으로 돌리기	向右旋转	右回転
+used	tilemap	rotate_up	Rotate Up	위로 돌리기	向上旋转	上回転
+used	tilemap	rotate_down	Rotate Down	아래로 돌리기	向下旋转	下回転
+				x	x	x
+deprecated	transform	title	Transform	트랜스폼	变形	トランスフォーム
+deprecated	transform	position	Position	포지션	位置	位置
+deprecated	transform	rotation	Rotation	로테이션	旋转	ローテーション
+deprecated	transform	scale	Scale	스케일	比例	比率
+deprecated	transform	reset	Reset	리셋	重置	リセット
+				x	x	x
+used	popups	save_confirmation	Save changes to "{0}" before closing?	닫기 전, 파일을 {0}에 저장하시겠나요?	是否在关闭前保存到"{0}"？	閉じる前に"{0}"の変更を保存しますか?
+used	popups	close_confirmation	Close VoxEdit?	복스에딧을 닫으시겠나요?	关闭VoxEdit？	VoxEditを閉じますか?
+used	popups	delete_confirmation	Delete {0}? This action cannot be reverted!	{0}을 지우시겠나요? 결정을 되돌릴 수 없습니다	是否删除{0}？此操作无法撤销！	{0}を削除しますか? この操作は取り消せません!
+used	popups	too_much_detail	Model has too much detail!\nIt has {0} quads, the limit is {1}!	모델의 쿼드 수가 높습니다. {0} 쿼드. {1} 쿼드 제한	模型细节过多！\n模型有{0}个四方形，四方形上限为{1}！	モデルが細かすぎます!\n現在{0}クアッド（x4辺）ですが制限は{1}です!
+used	popups	old_version	Can only export from latest VoxEdit version!	최신 복스에딧 버젼에서만 엑스포트가 가능합니다!	只可从最新版 VoxEdit  中导出！	最新バージョンのVoxEditからのみエクスポート可能です。
+used	popups	legacy_template	Asset is based on a legacy template.\nDo you want to see how to update this?	애셋은 구형 템플릿을 활용하고 있습니다. \n 업데이트 하시겠습니까?	资产基于旧模板。\n你想看看如何更新它吗？	アセットはレガシーなテンプレートに基づいています。\nアップデート方法を知りたい？
+used	popups	file_already_exists	File already exists!	파일이 벌써 존재합니다!	文件已存在！	ファイルが既に存在しています！
+used	popups	file_replace_question	A file called "{0}" already exists,\ndo you want to replace it?	{0} 파일이 벌써 존재합니다. 덮어씌우시겠습니까?	已存在名为"{0}"的文件，要替换吗？	ファイル「{0}」は既に存在しています。置き換えますか？
+used	popups	importing_would_overwrite	"{0}" already exists. Please delete before importing.	"{0}"은 벌써 존재합니다. 불러오기전에 삭제하세요.	“ {0}”已存在。 请先删除后导入。	"{0}"は既に存在しています。インポートする前に削除してください。
+new	popups	restore_recent_warning	You can open the last backup (overwrites current asset).\nYou can also browse previous backups.		您可以打开上次备份（覆盖当前资产）。\n您还可以浏览以前的备份。	最後のバックアップを開くことができます（Asset上書き）。\nまた、過去のバックアップを閲覧することもできます。
+used	popups	modeler_warn_resize	Changing default template dimensions can impact animations.\nPlease verify in Animator that it still works well.	기본 템플릿 크기를 변경하면 애니메이션에 영향을 줄 수 있습니다. \n 애니메이터에서 애니메이션에 문제가 발생하지 않는지 미리 확인하세요.	更改默认模板尺寸可能会影响动画。\n请在 Animator 中验证它是否仍能正常运作。	デフォルトのテンプレートの寸法を変更すると、アニメーションに影響を与えることがあります。\nAnimatorで動作確認をしてください。
+used	popups	import_animation_error	Error while importing "{0}".\nMake sure the source and destination rigs are compatible.	"{0}" 불러오는 중 에러 발생.\n 소스와 목적 리그가 호환이 되는지 확인하세요.	导入“ {0}”时出错。 确保资料来源和目标索具兼容。	"{0}" のインポート中にエラーが発生しました。リグのソースとリグのリンク先に互換性があることを確認してください。
+used	popups	delete_unattached_confirmation	Delete {0} models from disk?	디스트에서 {0}모델 제거하기	从磁盘中删除 {0} 个模型？	ディスクから{0}個のモデルを削除しますか？
+new	popups	sync_to_mv	Make sure that VOX files are associated with MagicaVoxel!		确保 VOX 文件与 MagicaVoxel 相关联！	VOXファイルがMagicaVoxelに関連付けられていることを確認してください。
+new	popups	download_error	Error while downloading! Try again in a few minutes.		下载时出错！ 请过几分钟再试。	ダウンロード中にエラーが発生しました。数分後に再度お試しください。
+new	popups	sync_to_mv_shared_models	Cannot sync shared models to MagicaVoxel!\nEach node needs to have it's own unique model.		无法将共享模型同步到 MagicaVoxel！\n每个节点都需要拥有自己独特的模型。	共有モデルをMagicaVoxelと同期できません。\n各ノードはそれぞれ固有のモデルを持つ必要があります。
+new	popups	delete_all_animations	This will delete every animation but the current one!\nAre you sure?		这将删除除当前动画之外的所有动画！\n你确定吗？	これは、現在のアニメーション以外のすべてのアニメーションを削除します。\n続けますか？
+new	popups	send_to_all_confirm_title	Send to all?		发给大家？	すべてに送信しますか？
+new	popups	send_to_all_confirm_body	Send selected keyframes to all animations?		将选定的关键帧发送到所有动画？	選択したキーフレームをすべてのアニメーションに送りますか？
+new	popups	reset_config_confirm_title	Reset Editor Configuration?		重置编辑器配置？	エディタの設定をリセットしますか？
+new	popups	reset_config_confirm_body	This will restore every setting, including development ones!		这将恢复所有设置，包括开发设置！	開発中のものも含めて、すべての設定を復元します。
+				x	x	x
+used	to_marketplace	title	CHOOSE YOUR THUMBNAIL	썸네일을 선택하세요	选择您的缩图	サムネイルを選択
+used	to_marketplace	choose_default	Choose Default Animation:	디폴트 애니메이션 선택	选择默认动画：	デフォルトアニメーションを選択:
+used	to_marketplace	export	Export	엑스포트하기	汇出	エクスポート
+used	to_marketplace	cancel	Cancel	취소	取消	キャンセル
+				x	x	x
+used	loading	preparing	Preparing upload, please wait...	업로드 준비 중, 잠시만 기다려주세요...	准备上传中，请稍候…	アップロード準備中です。お待ちください…
+used	loading	uploading	Exporting to Marketplace, please wait...	마켓 플레이스로 엑스포팅 중, 잠시만 기다려주세요...	汇出至商店中，请稍候…	マーケットプレイスにエクスポート中です、お待ちください…
+used	loading	cutting_vxt	Cutting Model, please wait...	모델 자르는 중, 잠시만 기다려주세요...	剪辑模型中，请稍候…	モデルのカット中です。お待ちください…
+				x	x	x
+used	editor	minimize	Minimize VoxEdit	복스에딧 최소화하기	最小化VoxEdit	VoxEditの最小化
+used	editor	restore_maximize	Restore/Maximize VoxEdit	복스에딧 최대화하기	还原/最大化VoxEdit	リストア/VoxEditの最大化
+used	editor	close	Close VoxEdit	복스에딧 닫기	关闭VoxEdit	VoxEditを閉じる
+used	editor	resize	Resize window by dragging.	드래그로 크기 설정하기	拖拽改变窗口大小。	ドラッグしてウィンドウの大きさを変更する
+used	editor	attach_detach	Attach/Detach panel	패널 붙이기/분리하기	吸附/拆离面板	パネルをアタッチ/デタッチする
+used	editor	collapse_expand	Collapse/Expand panel	패널 열기/닫기	折叠／展开面板	パネルをたたむ/広げる
+used	editor	open_menu	Open Menu	메뉴 열기	打开菜单	メニューを開く
+new	editor	show_UIXLibrary	Show Library Panel		显示库面板	ライブラリーパネルの表示
+new	editor	show_UIXInspector	Show Inspector Panel		显示检查器面板	インスペクターパネルの表示
+				x	x	x
+used	files	open	Select file to open	파일 선택하여 열기	选择文件打开	開くファイルを選択
+used	files	import	Select file to import	파일 선택하여 불러오기	选择要导入的文件	インポートするファイルを選択
+used	files	upgrade	Select files to upgrade	파일 선택하여 업그레이드	选择文件升级	アップグレードするファイルを選択
+used	files	extension_list	{0} files	{0} 파일	{0}个文件	{0}個のファイル
+used	files	new_model	Select location for new model	새 모델 위치 선택	选择新模型位置	新規モデルの場所を選ぶ
+used	files	new_rig	Select location for new rig	새 리그 위치 선택	选择新索具位置	新規リッジの場所を選ぶ
+used	files	new_block	Select location for new block	새 블록 위치 선택	选择新区块位置	新規ブロックの場所を選ぶ
+used	files	new_tilemap	Select location for new tilemap	새 타일맵 위치 선택	选择新瓦片地图位置	タイルマップの場所を選ぶ
+used	files	copy_model	Select location for copy of model	모델 카피본 위치 선택	选择模型副本位置	モデルのコピーの場所を選ぶ
+used	files	import_model	Select model to import	모델 임포트	选择模型导入	インポートするモデルを選ぶ
+used	files	replace_model	Select model to replace with	대체할 모델 선택	选择要替换的模型	交換するモデルを選択
+used	files	import_animation	Select animation to import	불러온 애니메이션 선택	选择要导入的动画	インポートするアニメーションを選ぶ
+used	files	import_magicavoxel_model	Select MagicaVoxel model to import	매직카복셀 모델 불러오기	选择MagicaVoxel模型导入	インポートするMagicaVoxelモデルを選ぶ
+used	files	import_obj_model	Select OBJ model to import	OBJ 파일 불러오기	选择OBJ模型导入	インポートするOBJモデルを選ぶ
+used	files	export_obj_model	Select location for exported OBJ file	엑스포트된 OBJ 파일 위치 선택	选择导出OBJ文件位置	エクスポートするOBJファイルの場所を選ぶ
+used	files	export_dae_model	Select location for exported DAE file	엑스포트된 DAE 파일 위치 선택	选择导出DAE文件位置	エクスポートするDAEファイルの場所を選ぶ
+used	files	export_gltf_model	Select location for exported GLTF file	엑스포트된 GLTF 파일 위치 선택	选择导出GLTF文件位置	エクスポートするGLTFファイルの場所を選ぶ
+used	files	export_vox	Select location for exported VOX file	엑스포트된 VOX 파일 위치 선택	选择导出 VOX 文件的位置	書き出したVOXファイルの保存先を選択
+used	files	export_rig	Select location for exported Rig	엑스포트된 리그 파일 위치 선택	选择导出索具的位置	エクスポートしたリグの場所を選択
+used	files	export_animation	Select location for exported Animation	엑스포트된 애니메이션 파일 위치 선택	选择导出动画的位置	エクスポートしたアニメーションの場所を選択します。
+used	files	export_png	Select location for exported PNG file	엑스포트된 PNG 파일 위치 선택	选择导出PNG文件位置	エクスポートするPNGファイルの場所を選ぶ
+used	files	query_new_model	Name for new Model?	새로운 모델 명칭은?	新模型的名称？	新しいモデルの名前は？
+used	files	query_new_model_accept	Create Model	모델 만들기	创建模型	モデルの作成
+used	files	query_rename_model	New Name for {0}?	모델 카피본 위치 선택	选择模型副本位置	 {0}の新しい名前は？
+used	files	query_rename_model_accept	Rename Model	모델명 변경하기	重命名模型	名前の変更
+used	files	query_duplicate_model	Name for clone of {0}?	{0}의 복제명?	{0}的克隆名称？	{0}のクローンの名前は？
+used	files	query_duplicate_model_accept	Clone Model	모델 복제하기	克隆模型	クローンモデル
+used	files	query_create_folder	New folder name?	새로운 폴더 명칭?	新文件夹名称？	新しいフォルダ名は？
+used	files	query_create_folder_accept	Create folder	폴더 만들기	创建文件夹	フォルダを作成
+				x	x	x
+used	lights	title	Light Control	빛 컨트롤하기	光线控制	ライト調整
+used	lights	light	Light {0}	빛 {0}	光线 {0}	ライト {0}
+used	lights	azimuth	Azimuth	방위각	方位角	方位角
+used	lights	altitude	Altitude	고도	高度	高さ
+				x	x	x
+used	shortcuts	shortcut_guide	Quick Shortcuts Guide	단축기 가이드	快捷键指南	クイック・ショートカット・ガイド
+used	shortcuts	select	Select Mode	모드 선택	选择模式	モードを選択
+used	shortcuts	create	Create Mode	만들기 모드	创建模式	モードを作成
+used	shortcuts	paint	Paint Mode	페인트 모드	涂漆模式	ペイントモード
+used	shortcuts	erase	Erase Mode	지우기 모드	擦除模式	モードを削除
+used	shortcuts	gizmo_select	Select Node	노드 선택	选择节点	ノードを選択
+used	shortcuts	gizmo_translate	Move Node	노드 이동	移动节点	ノードを動かす
+used	shortcuts	gizmo_rotate	Rotate Node	노드 회전	旋转节点	ノードを回転
+used	shortcuts	pencil	Pencil Tool	연필 모드	铅笔工具	ペンシルツール
+used	shortcuts	line	Line Tool	라인 툴	直线工具	ラインツール
+used	shortcuts	rect	Screen Rect Tool	마우스 드래그로 선택하기	矩形屏幕工具	長方形ツール
+used	shortcuts	box	Box Tool	박스 툴	方块模式	ボックスツール
+used	shortcuts	face	Face Tool	페이스 툴	面模式	フェイスツール
+used	shortcuts	bucket	Bucket Tool	벅케트 툴	桶模式	バケットツール
+used	shortcuts	pivot	Pivot Mode	피봇 툴	轴模式	ピボットモード
+used	shortcuts	picker	Picker Mode	피커 툴	提取模式	ピッカーモード
+used	shortcuts	focus_camera	Focus Camera	카메라 포커스	聚焦镜头	カメラのフォーカス
+new	shortcuts	prev_frame	Previous Frame		上一帧	前のフレーム
+new	shortcuts	next_frame	Next Frame		下一帧	次のフレーム
+new	shortcuts	prev_keyframe	Previous Keyframe		上一个关键帧	前のキーフレーム
+new	shortcuts	next_keyframe	Next Keyframe		下一个关键帧	次のキーフレーム
+used	shortcuts	play_pause	Play/Pause	재생/중지	播放/暂停	再生/停止
+used	shortcuts	undo	Undo	작업취소	撤销	元に戻す
+used	shortcuts	redo	Redo	되살리기	还原	やり直し
+used	shortcuts	quicksave	Quicksave	빠른 저장	快速保存	クイック保存
+used	shortcuts	copy_keyframes	Copy Keyframes	키프레임 복사하기	复制关键帧	キーフレームのコピー
+used	shortcuts	keyframe_delete	Delete Keyframes	키프레임 지우기	删除关键帧	キーフレームを削除
+used	shortcuts	keyframe_invert_rotation	Invert Keyframe Rotations	키프레임 로테이션 인버트하기	反转关键帧循环	キーフレームの回転を反転
+used	shortcuts	pan_camera	Pan Camera	카메라 팬	平移相机	パンカメラ
+				x	x	x
+deprecated	theming	background_color	Background Color	배경 색상	背景颜色	背景色
+deprecated	theming	grid_line_color	Grid Line Color	그리드 라인 색상	网格线颜色	グリッドラインの色
+deprecated	theming	grid_bg_color	Grid Background Color	그리드 배경 색상	网格背景颜色	グリッドの背景色
+used	theming	color_theme	Color Theme	색상 테마	主题颜色	カラーテーマ
+used	theming	color	Color	색상	颜色	カラー
+used	theming	themes	Themes	테마	主题	テーマ
+				x	x	x
+used	preferences	title	Preferences	설정	首选项	設定
+used	preferences	shortcuts	Shortcuts	단축키	快捷键	ショートカット
+used	preferences	theming	Theme	테마	主题	テーマ
+used	preferences	reset_all	Reset All	전체 리셋	全部重置	すべてをリセット
+used	preferences	command	Command	커맨드	命令	コマンド
+used	preferences	shortcut	Shortcut	단축키	快捷键	ショートカット
+used	preferences	mode	Mode	모드	模式	モード
+used	preferences	save	Save	저장	保存	保存
+used	preferences	modeler	Modeler	모델러	建模工具	モデラー
+used	preferences	rigger	Animator	애니메이터	动画工具	アニメーター
+used	preferences	block	Block	블록	积木	ブロック
+used	preferences	tilemap	Tilemap	타일맵	瓦片地图	タイルマップ
+used	preferences	all	All	전체	全部	全て
+used	preferences	empty	Empty	비우기	空	空
+used	preferences	shortcut_conflict_title	Conflicts Found	충돌발생	发现冲突	矛盾あり
+used	preferences	shortcut_conflict_description	Please make sure that all shortcuts have unique keybinds	단축키가 서로 겹치지 않도록 하세요	请确保所有快捷键都具有唯一的键绑定	全てのショートカットキーにアサインがあることを確認してください。
+used	preferences	shortcut_cancel_confirmation_title	You've made some changes...	변경사항이 있습니다	您进行了一些更改...	変更しました...
+used	preferences	shortcut_cancel_confirmation_description	Are you sure you want to discard them?	취소하기 원하시나요?	您确定要弃置吗？	本当に破棄しますか？
+used	preferences	shortcut_save_confirmation_title	You've made some changes...	변경사항이 있습니다	您进行了一些更改...	あなたはいくつかの変更をしました...
+used	preferences	shortcut_save_confirmation_description	Are you sure you want to save them?	저장하기 원하시나요?	您确定要保存吗？	保存しても大丈夫ですか？
+used	preferences	theme_save_confirmation_title	You've changed the theme...	테마를 변경했습니다.	你换了主题...	テーマを変更しました...
+used	preferences	theme_save_confirmation_description	Are you sure you want to use this?	사용하시기를 원하시나요?	你确定要使用这个吗？	このまま続けますか？
+				x	x	x
+used	generic	language_en	English	영어	英语	英語
+used	generic	language_kr	Korean	한국어	韩语	韓国語
+used	generic	language_sc	Chinese	중국어	中文	中国語
+used	generic	language_jp	Japanese	일본어	日语	日本語
+used	generic	enabled	Enabled	업데이트	启用	有効化
+used	generic	update	Update	업데이트	更新	アップデート
+used	generic	cut	Cut	자르기	剪切	カット
+used	generic	copy	Copy	복사하기	复制	コピー
+used	generic	paste	Paste	붙여넣기	粘贴	ペースト
+used	generic	rename	Rename	명칭 바꾸기	重命名	名前を変更する
+used	generic	yes	Yes	예	是	はい
+used	generic	no	No	아니요	否	いいえ
+used	generic	cancel	Cancel	취소	取消	キャンセル
+used	generic	delete	DELETE	삭제	删除	削除
+used	generic	ok	OK	OK	好	OK
+used	generic	new	New	새로운	新的	New
+new	generic	browse	Browse		浏览	閲覧
+used	generic	import	Import	임포트	导入	インポート
+used	generic	export	Export	엑스포트	导出	エクスポート
+used	generic	voxels	Voxels	복셀	体素	ボクセル
+used	generic	quads	Quads	쿼드	四方形	クアッド(4)
+used	generic	left	Left	왼쪽	左	左
+used	generic	right	Right	오른쪽	右	右
+used	generic	bottom	Bottom	맨 아래	底	下
+used	generic	top	Top	맨 위	顶	上
+used	generic	front	Front	앞	前	正面
+used	generic	back	Back	뒤	后	背面
+used	generic	effector	Effector	이펙터	效应器	エフェクター
+used	generic	drop_node	Drop Node	노드 드랍	丢弃节点	ドロップノード
+used	curves	instant	Instant	인스턴트	即时	インスタント
+used	curves	linear	Linear	리니어	直线	直線
+used	curves	quad_in	Quad In	쿼드 인	四倍放大	４倍拡大
+used	curves	quad_out	Quad Out	쿼드 아웃	四倍缩小	４倍縮小
+used	curves	quad_inout	Quad In/Out	쿼드 인/아웃	四倍放大/缩小	４倍拡大/縮小
+used	curves	cubic_in	Cubic In	큐빅 인	三倍放大	３倍拡大
+used	curves	cubic_out	Cubic Out	큐빅 아웃	三倍缩小	３倍縮小
+used	curves	cubic_inout	Cubic In/Out	큐빅 인/아웃	三倍放大/缩小	３倍拡大/縮小
+used	cameras	perspective	Perspective	퍼스펙티브	透视	透視
+used	cameras	orthographic	Orthographic	오르토그래픽	正投影	正投影
